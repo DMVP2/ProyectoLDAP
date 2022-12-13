@@ -1,0 +1,9 @@
+Host:192.168.56.109
+Usuario:admin
+Password:1234
+Dominio:unbosque.edu
+DN:ou=gerencia,ou=gruposInternos,ou=grupos,dc=unbosque,dc=edu
+DN:ou=administracion,ou=gruposInternos,ou=grupos,dc=unbosque,dc=edu
+DN:ou=ventas,ou=gruposInternos,ou=grupos,dc=unbosque,dc=edu
+DN:ou=almacen,ou=gruposInternos,ou=grupos,dc=unbosque,dc=edu
+DN:ou=mantenimiento,ou=gruposInternos,ou=grupos,dc=unbosque,dc=edu
